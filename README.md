@@ -1,5 +1,3 @@
 # Data Science Project Portfolio
 ## About Me
-- 👩🏻‍💻 Data Scientist in Healthcare industry
-- 🌏 Based in Boston, MA
-- 💕 Interests: Healthcare, Rockclimbing, Painting
+Hi there! My name is Cyndi and I am an aspiring data scientist. Feel free to connect me on LinkedIn!
