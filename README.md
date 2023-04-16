@@ -1,2 +1,3 @@
 # Data Science Project Portfolio
-Data Analytics Portfolio
+## About Me
+- Interests: Healthcare, Rockclimbing, Painting
