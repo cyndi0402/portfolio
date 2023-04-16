@@ -3,7 +3,7 @@
 Hi there! My name is Cyndi and I am an aspiring data scientist in the healthcare industry. Feel free to connect with me on LinkedIn or cynding@brandeis.edu!
 
 ## Projects
-### 1. Potato Chips Sales Analytics
+### 1. [Potato Chips Sales Analytics](https://github.com/cyndi0402/potatochips)
 
 **Keywords: Marketing Analytics, Customer Segmentation, Statistical Hypothesis Testing**
 
